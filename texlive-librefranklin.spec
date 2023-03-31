@@ -1,6 +1,6 @@
 Name:		texlive-librefranklin
 Version:	64441
-Release:	1
+Release:	2
 Summary:	LaTeX support for the Libre-Franklin family of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/librefranklin
