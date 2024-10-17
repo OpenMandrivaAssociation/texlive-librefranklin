@@ -3,7 +3,7 @@ Version:	64441
 Release:	2
 Summary:	LaTeX support for the Libre-Franklin family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/librefranklin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/librefranklin
 License:	lppl ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librefranklin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librefranklin.doc.r%{version}.tar.xz
